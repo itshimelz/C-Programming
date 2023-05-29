@@ -20,8 +20,13 @@ To use the Student Grade Management System, follow these steps:
 
 1. Ensure you have a C compiler installed on your system.
 2. Open a terminal or command prompt and navigate to the "Lab Project" folder.
+<<<<<<< HEAD
 3. Compile the `student_grade_management_system.c` file using the appropriate C compiler command. For example:
 4. Run the compiled executable file. For example:
+=======
+3. Compile the `student_grade_management_system.c` file using the appropriate C compiler command. For example: gcc student_grade_management_system.c -o student_grade_management_system
+4. Run the compiled executable file. For example: ./student_grade_management_system
+>>>>>>> 3ab9c6b5bd3df45aafc97a0b6d9e19c58cc9e909
 5. Follow the program prompts and menu options to interact with the Student Grade Management System. You can create student records, enter grades, calculate averages, and generate reports as needed.
 
 
