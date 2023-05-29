@@ -31,10 +31,10 @@ int main()
     swappedNum = swappedNum - lastDigit;
     swappedNum = swappedNum + firstDigit;
 
-    // Print the original number, first and last digits
-    printf("Original Number: %d\n", number);
-    printf("First Digit: %d\n", firstDigit);
-    printf("Last Digit: %d\n", lastDigit);
+    // // Print the original number, first and last digits
+    // printf("Original Number: %d\n", number);
+    // printf("First Digit: %d\n", firstDigit);
+    // printf("Last Digit: %d\n", lastDigit);
 
     // Print the swapped number
     printf("Swapped Number: %d\n", swappedNum);
